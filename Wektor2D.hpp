@@ -4,7 +4,8 @@ class Wektor2D
         double x, y;
 
     public:
-    Wektor2D() : x(0), y(0) {}
+    Wektor2D() : x(0), y(0) {} 
+    
 
     Wektor2D(double x, double y) : x(x), y(y) {}
 
